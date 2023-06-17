@@ -1,0 +1,2 @@
+mytestproject/App.java
+ mytestproject.App
